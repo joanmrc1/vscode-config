@@ -19,7 +19,7 @@
         "when": "editorFocus"
     },
     {
-        "key": "ctrl+d",
+        "key": "alt+q",
         "command": "workbench.action.toggleActivityBarVisibility"
     },
     {
